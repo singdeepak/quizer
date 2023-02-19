@@ -1,28 +1,28 @@
 const questions = [{
-    ques: "Who invented C programming language..?",
-    a: "Deepak",
-    b: "Dennish",
-    c: "Sohan",
-    d: "Prakash",
+    ques: "Which of the following can read and render HTML web pages..?",
+    a: "Server",
+    b: "Webpack",
+    c: "Web Browser",
+    d: "DOM",
+    ans: "c"
+},
+
+{
+    ques: "The latest HTML standard is",
+    a: "HTML 4.0",
+    b: "HTML 5.0",
+    c: "XML",
+    d: "SGML",
     ans: "b"
 },
 
 {
-    ques: "What is Banekh..?",
-    a: "Village",
-    b: "City",
-    c: "Palace",
-    d: "Heritage",
-    ans: "a"
-},
-
-{
-    ques: "what is mango..?",
-    a: "Goods",
-    b: "Cheese",
-    c: "Fruit",
-    d: "Veg",
-    ans: "c"
+    ques: "Identify the empty or void element in HTML.",
+    a: "<sup>",
+    b: "<br>",
+    c: "<p>",
+    d: "<abbr>",
+    ans: "b"
 }];
 
 
